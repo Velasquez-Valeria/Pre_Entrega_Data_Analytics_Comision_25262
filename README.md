@@ -1,10 +1,26 @@
-# Pre-Entrega – Data Analytics
+# 🚀 Pre-Entrega Proyecto Integrador - Data Analytics
 
-Este repositorio contiene el desarrollo de la Preentrega del proyecto correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en **SynthData**.
+**Institución:** Talento Tech 
+
+**Comisión:** 25262  
+
+**Autora:** Valeria Velasquez  
+
+**Tema:** Análisis de Ventas y Efectividad de Campañas de Marketing 
+
+---
+
+Este repositorio contiene el desarrollo de la **pre-entrega del proyecto integrador** correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en **SynthData**.
+
+---
 
 ## 📌 Descripción General
 
-El proyecto simula un entorno laboral ficticio en el cual se deben aplicar conocimientos adquiridos a lo largo del curso para resolver desafíos vinculados al análisis de datos. La propuesta se divide en dos etapas: **Recopilación y Preparación de Datos** y **Preprocesamiento y Limpieza de Datos**.
+El proyecto simula un entorno laboral ficticio en el cual se aplican los conocimientos adquiridos a lo largo del curso para resolver desafíos vinculados al análisis de datos.  
+La propuesta se divide en dos etapas principales:
+
+1. **Recopilación y Preparación de Datos**  
+2. **Preprocesamiento y Limpieza de Datos**
 
 ---
 
@@ -16,12 +32,12 @@ El proyecto simula un entorno laboral ficticio en el cual se deben aplicar conoc
 Demostrar competencias básicas en Python, manejo de estructuras de datos y familiaridad con herramientas de análisis.
 
 **Actividades:**
-- Carga de datasets en Google Colaboratory como DataFrames.
+- Carga de datasets en Google Colab como DataFrames.
 - Cálculo de ventas mensuales mediante variables y operadores.
 - Modelado de estructuras de datos para registrar ventas (producto, precio, cantidad).
 - Análisis exploratorio inicial utilizando la biblioteca `pandas`.
-- Identificación y documentación de valores nulos y duplicados.
-
+- Evaluación de calidad de datos (nulos y duplicados)
+  
 ---
 
 ### Etapa 2: Preprocesamiento y Limpieza de Datos  
@@ -34,7 +50,7 @@ Aplicar técnicas de limpieza, transformación e integración de datos para faci
 - Transformación de datos: filtrado y generación de una tabla con productos de alto rendimiento.
 - Agregación: resumen de ventas por categoría y análisis de ingresos.
 - Integración de datasets de ventas y marketing para obtener una visión consolidada.
-
+  
 ---
 ## 📁 Datos
 
@@ -55,4 +71,6 @@ Los archivos originales se encuentran alojados en Google Drive:
 ## 📝 Autor
 
 **Valeria Velasquez**  
+📍 Buenos Aires, Argentina  
+📅 Octubre 2025
 [GitHub Profile](https://github.com/Velasquez-Valeria)
