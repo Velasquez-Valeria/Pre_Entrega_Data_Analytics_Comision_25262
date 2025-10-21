@@ -1,14 +1,4 @@
-# <div style="color:#5b2e91; font-weight:800;">🚀 Pre-Entrega Proyecto Integrador - Data Analytics</div>
-
-**Institución:** Talento Tech  
-**Comisión:** 25262  
-**Autora:** Valeria Velasquez  
-**Tema:** Análisis de Ventas y Efectividad de Campañas de Marketing  
-
----
-
-Este repositorio contiene el desarrollo de la **pre-entrega del proyecto integrador** correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en **SynthData**.
-
+# 🚀 Pre-Entrega Proyecto Integrador - Data Analytics
 
 **Institución:** Talento Tech 
 
