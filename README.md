@@ -14,7 +14,7 @@ ___
 
 Este repositorio contiene el desarrollo de la **pre-entrega del proyecto integrador** correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en la empresa **SynthData**.
 
-El objetivo principal es aplicar las herramientas aprendidas a lo largo del curso para poner en práctica habilidades técnicas como la limpieza, transformación e integración de información, dentro de un contexto que imita situaciones reales del análisis de datos en entornos profesionales.
+El objetivo principal es aplicar las herramientas aprendidas a lo largo del curso para poner en práctica habilidades técnicas, dentro de un contexto que imita situaciones reales del análisis de datos en entornos profesionales.
 
 La propuesta se divide en dos etapas principales:
 
