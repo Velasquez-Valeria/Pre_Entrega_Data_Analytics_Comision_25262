@@ -69,7 +69,7 @@ Los archivos originales se encuentran alojados en Google Drive:
 
 ## 📝 Autora
 
-**Valeria Velasquez**  
+👩‍🏫 **Valeria Velasquez**  
 📍 Buenos Aires, Argentina  
 📅 Octubre 2025
 
