@@ -63,7 +63,14 @@ Los archivos originales se encuentran alojados en Google Drive:
 - Google Colaboratory  
 - Pandas  
 - NumPy  
-- GitHub  
+- GitHub
+---
+## 🖥️ Visualización en GitHub
+
+Este repositorio incluye notebooks con estilos aplicados mediante pandas (`.style`) y otras visualizaciones.  
+GitHub no renderiza estos estilos, por lo que algunas tablas pueden verse sin color o formato.
+
+Para una visualización completa, se recomienda abrir el notebook en [Google Colab](https://colab.research.google.com/) o Jupyter Notebook.
 
 ---
 
