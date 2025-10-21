@@ -1,3 +1,4 @@
+___
 # 🚀 Pre-Entrega Proyecto Integrador - Data Analytics
 
 **Institución:** Talento Tech 
@@ -9,14 +10,12 @@
 **Tema:** Análisis de Ventas y Efectividad de Campañas de Marketing 
 
 ---
-
-Este repositorio contiene el desarrollo de la **pre-entrega del proyecto integrador** correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en **SynthData**.
-
----
-
 ## 📌 Descripción General
 
-El proyecto simula un entorno laboral ficticio en el cual se aplican los conocimientos adquiridos a lo largo del curso para resolver desafíos vinculados al análisis de datos.  
+Este repositorio contiene el desarrollo de la **pre-entrega del proyecto integrador** correspondiente al curso **Data Analytics con Python**, en el marco de una **pasantía formativa simulada** en la empresa **SynthData**.
+
+El objetivo principal es aplicar las herramientas aprendidas a lo largo del curso para poner en práctica habilidades técnicas como la limpieza, transformación e integración de información, dentro de un contexto que imita situaciones reales del análisis de datos en entornos profesionales.
+
 La propuesta se divide en dos etapas principales:
 
 1. **Recopilación y Preparación de Datos**  
@@ -68,7 +67,7 @@ Los archivos originales se encuentran alojados en Google Drive:
 
 ---
 
-## 📝 Autor
+## 📝 Autora
 
 **Valeria Velasquez**  
 📍 Buenos Aires, Argentina  
